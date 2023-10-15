@@ -106,3 +106,20 @@ img{
 @keyframes heart {
     100%{transform: translate(-50%,-30%) scaleX(0);}
 }
+
+@media screen and (max-width: 900px ) {
+
+    .lettre{
+        background: #eff;
+        height: 100%;
+        width: 100%;
+        margin: .5rem auto;
+        font-size: 4rem;
+        color: #bd0707;
+        font-family: 'pacifico';
+        text-align: center;
+        padding-top: 2rem;
+        animation: lettre 1s forwards 4s;
+    }
+
+}

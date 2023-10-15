@@ -17,7 +17,7 @@ function send() {
         return false;
     }
 
-    if (usuario === "roberta" && senha === "10") {
+    if (usuario === "adriane" && senha === "07082022") {
         sucesso.style.display = 'inline';
 
         setTimeout(() => {

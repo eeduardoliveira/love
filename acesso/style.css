@@ -1,5 +1,5 @@
 body{
-    background-color: #22262c;
+    background-color: #e7627f;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
     user-select: none;
@@ -15,7 +15,7 @@ body{
 }
 
 .login{
-    background-color: #0e0e13;
+    background-color: #cb1941;
     padding: 50px;
     border-radius: 50px;
 }
@@ -41,7 +41,7 @@ form{
 input{
     margin-top: 10px;
     padding: 5px;
-    background-color: #252A34;
+    background-color: #342534;
     border: none;
     height: 45px;
     border-radius: 8px;
@@ -59,7 +59,7 @@ input::placeholder{
 
 form [type="submit"]{
     display: block;
-    background-color: #5568FE;
+    background-color: #f15252;
     font-size: 20px;
     font-weight: bold;
     cursor: pointer;
@@ -67,7 +67,7 @@ form [type="submit"]{
 }
 
 form [type="submit"]:hover{
-    background-color: #3b4abe;
+    background-color: #ffa3b7;
 }
 
 p{
@@ -78,7 +78,7 @@ p{
 a{
     text-decoration: none;
     font-weight: bold;
-    color: #5568FE;
+    color: #f1f1f1;
 }
 @media screen and (max-width: 76px8 ){
 .container-login{

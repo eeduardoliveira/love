@@ -20,7 +20,7 @@ a{
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
-    height: 100vh;
+    height: 100%;
     width: 100%;
 }
 
@@ -29,7 +29,7 @@ a{
     padding: 50px;
     border-radius: 20px;
 }
-@media screen and (max-width: 76px8 ){
+@media screen and (max-width: 768px ){
     .container{
         width:100%;
         flex-direction: column;
